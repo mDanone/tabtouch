@@ -7,6 +7,6 @@ INSTRUCTIONS FOR WINDOWS
 
     4. Install all pacgacges with command 'pip install -r requirements.txt'
 
-    5. Run program with command 'python tabtouch.py --name <name of race> -- code <code of race>
+    5. Run program with command 'python tabtouch.py <chrome or firefox> --name <name of race> -- code <code of race>
 
         5.1 if you require proxy then add '-p <ip:port>'. Use it if you have 403 status code.
